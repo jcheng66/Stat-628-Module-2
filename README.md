@@ -16,6 +16,7 @@ idea from kaggle: https://www.kaggle.com/c/yelp-recruiting/discussion/4980
 
 text classification using neural network http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/
 
+words about the food: https://kathytemean.wordpress.com/2009/04/25/101-descriptive-words-for-foods/
 
 
 
