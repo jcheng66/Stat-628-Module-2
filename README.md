@@ -6,11 +6,11 @@ Team member: Yilun Chen, Jiashun Cheng, Yishan Cai
 
 2.Image fold: This folder contains all figures we use.
 
-3.Executive summary : This file is for the report. 
+3.PPT: The group presentation slides. 
 
-4.PPT: The group presentation slides. 
+4.Relevant: Ignore it.
 
-5.Relevant: Ignore it.
+
 
 
 
