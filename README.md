@@ -1,24 +1,15 @@
-# Stat-628-Module-2
+Stat628 Module 2 Wed_Group 4
+Team member: Yilun Chen, Jiashun Cheng, Yishan Cai 
 
-useful python packages
+1.Data fold: This folder contains is empty, you can download the yelp data in the wabsite
 
-ntlk: https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&index=1
+2.Code fold: This folder contains all the code for our analysis. （自己部分的代码记得放进去）
 
-gensim: https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md#tutorials
+3.Image fold: This folder contains all figures we use.
 
-sklearn: http://www.developintelligence.com/blog/2017/03/predicting-yelp-star-ratings-review-text-python/
+4.Executive summary : This file is for the report. (文件名，是什么)
 
-useful R packages
-
-tm: https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf
-
-idea from kaggle: https://www.kaggle.com/c/yelp-recruiting/discussion/4980
-
-text classification using neural network http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/
-
-words about the food: https://kathytemean.wordpress.com/2009/04/25/101-descriptive-words-for-foods/
-
-
+5.PPT: The group presentation slides. 
 
 
 
